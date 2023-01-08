@@ -43,4 +43,3 @@ if __name__ == "__main__":
     master = tk.Tk()
     app = App(master)
     app.master.mainloop()
-    #出典：東京書籍、新しい社会6 歴史編、
